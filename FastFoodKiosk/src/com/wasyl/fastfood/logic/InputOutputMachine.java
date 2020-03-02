@@ -1,4 +1,4 @@
-package com.wasyl.fastfood.logika;
+package com.wasyl.fastfood.logic;
 
 import com.wasyl.fastfood.data.przechowywanie.IngredientsContainer;
 import com.wasyl.fastfood.data.przechowywanie.Warehouse;

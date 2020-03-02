@@ -1,4 +1,4 @@
-package com.wasyl.fastfood.logika;
+package com.wasyl.fastfood.logic;
 
 import com.wasyl.fastfood.data.produkty.podstawyLogikiJedzenia.enumsIngredients.EnumIngredientsBase;
 
