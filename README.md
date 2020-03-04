@@ -21,3 +21,4 @@ Super secret password for Administrator is: *password*
 Thanks to one of my teacher, who asked us (us =  my group) to make individual projects like this, which was supposed it imitate a part of real live.  Without that I would not even come up with such an idea
  
 ![java badge](https://forthebadge.com/images/badges/made-with-java.svg)
+![gluten](https://forthebadge.com/images/badges/gluten-free.svg)
