@@ -1,6 +1,6 @@
 # :pizza: FastFood-Kiosk ![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102) ![my badge](https://img.shields.io/badge/status-finished-brightgreen) 
 This is a small, but detailed, project for kiosk / interactive panel for restaurant. We can find big screens in every McDonald's or KFC and make an order. My implementation is not so *beautiful*, but it can be also be used by system administrator. Standard user is able to make an order and "pay" for it. A user with secret password can check supplies status in warehouse.
-## Technologies and algorithms 
+## Technologies 
 I used Java 8 with Swing library
 ## How to experience this project :hamburger:
 Use computer mouse to choose options.
