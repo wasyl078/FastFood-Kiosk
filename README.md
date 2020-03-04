@@ -6,9 +6,16 @@ I used Java 8 with Swing library
 Use computer mouse to choose options.
 Super secret password for Administrator is: *password*
 ## Screenshots
+#### Catalog of all products
 ![screen1](https://github.com/wasyl078/FastFood-Kiosk/blob/master/FastFoodKiosk/src/resources/META-INF/screen1.png)
+
+#### Order summary
 ![screen2](https://github.com/wasyl078/FastFood-Kiosk/blob/master/FastFoodKiosk/src/resources/META-INF/screen2.png)
+
+#### Product custiomization
 ![screen3](https://github.com/wasyl078/FastFood-Kiosk/blob/master/FastFoodKiosk/src/resources/META-INF/screen3.png)
+
+#### Admin's warehouse view
 ![screen4](https://github.com/wasyl078/FastFood-Kiosk/blob/master/FastFoodKiosk/src/resources/META-INF/screen4.png)
 ### Credits:
 Thanks to one of my teacher, who asked us (us =  my group) to make individual projects like this, which was supposed it imitate a part of real live.  Without that I would not even come up with such an idea
